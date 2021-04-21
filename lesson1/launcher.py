@@ -1,4 +1,4 @@
-import datetime
+import time
 from wsgiref.simple_server import make_server
 from app import Application
 from url import routes
@@ -7,7 +7,7 @@ from url import routes
 # Front controllers
 
 def now_time(request):
-    request['time'] = datetime.datetime.now()
+    request['time'] = time.ctime()
 
 
 fronts = [now_time]
