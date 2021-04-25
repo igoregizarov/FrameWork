@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13550d33-81a2-463e-844c-32be027f6a28" name="Default Changelist" comment="" />
+    <list default="true" id="13550d33-81a2-463e-844c-32be027f6a28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson1/templates/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/launcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/launcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/templ.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/templ.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/templates/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/templates/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/templates/Contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/templates/Contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/templates/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/templates/Search.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/templates/Search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/url.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_f/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/views.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rKdR0PAFlv7mebsglLYBPwoxRB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +40,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Fwork_some_f" />
   </component>
   <component name="RunManager" selected="Python.launcher">
     <configuration name="fwsgi_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -131,29 +151,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1618756566702">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1618837153745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618756566702" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1618756566702">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618837153745" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1619016906965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618756566702" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1618756566702">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1619016906965" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1619016906965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618756566702" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1618756566702">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1619016906965" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1619016906965">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618756566702" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1619016906965" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1619016906965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1619016906965" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1618735095140">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="584" y="190" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1618735095140" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1618729958476">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1618837034659">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1618729958476" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1618837034659" />
   </component>
 </project>
