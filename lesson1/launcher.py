@@ -1,7 +1,7 @@
 import time
 from wsgiref.simple_server import make_server
 from app import Application
-from url import routes
+from views import routes
 
 
 # Front controllers
