@@ -1,14 +1,17 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Contacts</title>
-</head>
-<body>
+{% extends "base.html" %}
+{% block title %}
+	Главная
+{% endblock %}
+{% block menu %}
+    {% include "inc-menu.html" %}
+{% endblock %}
+{% block body %}
     <h1>Contacts</h1>
-        <form action="" method="post">
+{% endblock %}
+{% block form %}
+    <form action="" method="post">
 			<fieldset>
-				<legend>Зарегистрируйтесь</legend>
+				<legend>Форма обратной связи</legend>
 				<p><label class="title" for="name">Ваше имя:</label>
 					 <input type="text" name="name" id="name"><br/>
 					 <label class="title" for="email">Ваш email:</label>
@@ -20,5 +23,4 @@
 			</fieldset>
  	    <div class="submit"><input type="submit" value="Отправить" /></div>
     </form>
-</body>
-</html>
+{% endblock %}
